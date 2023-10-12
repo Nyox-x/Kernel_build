@@ -1,4 +1,4 @@
-name: Build Kernel (lmi_project_elixir)
+name: Build Kernel (lmi)
 on:
   push:
     tags:
